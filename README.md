@@ -79,6 +79,7 @@ Broader catalogues where an AI product is one kind of listing among many.
 |---|---|---|---|
 | **[Capterra](https://www.capterra.com/)** | Business software reviews | Curated | Free/Paid |
 | **[Crunchbase](https://www.crunchbase.com/)** | Company and funding data | Open | Free/Paid |
+| **[SaaSCity](https://saascity.io/)** | Gamified SaaS and AI product directory | Open | Free/Paid |
 | **[G2](https://www.g2.com/)** | Business software reviews | Curated | Free/Paid |
 | **[Indie Hackers](https://www.indiehackers.com/products)** | Bootstrapped products | Open | Free |
 | **[SaaSHub](https://www.saashub.com/)** | Software alternatives | Open | Free/Paid |
