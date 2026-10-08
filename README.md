@@ -5,7 +5,7 @@
 > A curated list of AI directories, product discovery sites, launch platforms, and submission resources.
 
 <!-- counts:start -->
-![Directories](https://img.shields.io/badge/directories-38-informational)
+![Directories](https://img.shields.io/badge/directories-39-informational)
 ![Categories](https://img.shields.io/badge/categories-5-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -84,6 +84,7 @@ Broader catalogues where an AI product is one kind of listing among many.
 | **[SaaSHub](https://www.saashub.com/)** | Software alternatives | Open | Free/Paid |
 | **[Slashdot](https://slashdot.org/software/)** | Business software | Open | Free/Paid |
 | **[SourceForge](https://sourceforge.net/software/)** | Software listings and reviews | Open | Free/Paid |
+| **[StarTap](https://startap.cc/)** | Makers list websites for visitors to discover and support through a star-clicking game. | Open | Free |
 | **[Startup Stash](https://startupstash.com/)** | Startup resources | Open | Free/Paid |
 | **[Wellfound](https://wellfound.com/)** | Startup jobs and profiles | Open | Free/Paid |
 
