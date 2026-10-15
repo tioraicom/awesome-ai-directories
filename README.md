@@ -5,7 +5,7 @@
 > A curated list of AI directories, product discovery sites, launch platforms, and submission resources.
 
 <!-- counts:start -->
-![Directories](https://img.shields.io/badge/directories-38-informational)
+![Directories](https://img.shields.io/badge/directories-39-informational)
 ![Categories](https://img.shields.io/badge/categories-5-informational)
 <!-- counts:end -->
 ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen)
@@ -53,6 +53,7 @@ Directories whose main catalogue is AI products across every category.
 | **[Easy With AI](https://easywithai.com/)** | General AI tools | Open | Free/Paid |
 | **[Futurepedia](https://www.futurepedia.io/)** | General AI tools | Open | Free/Paid |
 | **[Insidr AI](https://www.insidr.ai/)** | General AI tools | Unknown | Unknown |
+| **[Intelsi](https://intelsi.si/)** | Frontier AI tools and research | Curated | Free |
 | **[TAAFT](https://theresanaiforthat.com/)** | AI tools by task | Open | Free/Paid |
 | **[TiorAI](https://tiorai.com/)** | AI tools, comparisons, alternatives | Curated | Free |
 | **[Toolify](https://www.toolify.ai/)** | General AI tools | Open | Free/Paid |
