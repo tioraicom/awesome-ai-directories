@@ -53,6 +53,7 @@ Directories whose main catalogue is AI products across every category.
 | **[Easy With AI](https://easywithai.com/)** | General AI tools | Open | Free/Paid |
 | **[Futurepedia](https://www.futurepedia.io/)** | General AI tools | Open | Free/Paid |
 | **[Insidr AI](https://www.insidr.ai/)** | General AI tools | Unknown | Unknown |
+| **[MeetNewAI](https://meetnewai.com/)** | AI tools, games & MCP by job | Open | Free |
 | **[TAAFT](https://theresanaiforthat.com/)** | AI tools by task | Open | Free/Paid |
 | **[TiorAI](https://tiorai.com/)** | AI tools, comparisons, alternatives | Curated | Free |
 | **[Toolify](https://www.toolify.ai/)** | General AI tools | Open | Free/Paid |
