@@ -56,6 +56,7 @@ Directories whose main catalogue is AI products across every category.
 | **[TAAFT](https://theresanaiforthat.com/)** | AI tools by task | Open | Free/Paid |
 | **[TiorAI](https://tiorai.com/)** | AI tools, comparisons, alternatives | Curated | Free |
 | **[Toolify](https://www.toolify.ai/)** | General AI tools | Open | Free/Paid |
+| **[Tools Hub](https://tools-hub.sweetai.work)** | General tools directory — 10,325 tools in 11 categories, with best-of guides | Open | Free |
 | **[Topai.tools](https://topai.tools/)** | General AI tools | Open | Free/Paid |
 
 ## Launch platforms
