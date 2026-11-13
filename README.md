@@ -46,9 +46,11 @@ Directories whose main catalogue is AI products across every category.
 
 | Directory | Focus | Submission | Pricing |
 |---|---|---|---|
+| **[AIHuntList](https://aihuntlist.com)** | General AI tools | Unknown | Unknown |
 | **[AIToolMall](https://www.aitoolmall.com/)** | General AI tools | Unknown | Unknown |
 | **[AI Tools Directory](https://aitoolsdirectory.com/)** | General AI tools | Open | Free/Paid |
 | **[aitools.fyi](https://aitools.fyi/)** | General AI tools | Open | Free/Paid |
+| **[AITrustList](https://aitrustlist.com)** | General AI tools | Unknown | Unknown |
 | **[AlternativeTo](https://alternativeto.net/)** | Software alternatives | Open | Free |
 | **[Easy With AI](https://easywithai.com/)** | General AI tools | Open | Free/Paid |
 | **[Futurepedia](https://www.futurepedia.io/)** | General AI tools | Open | Free/Paid |
